@@ -2,7 +2,7 @@
 
 ##
 
-<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=figma&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false&animation=spin&fill=black&textfill=bface6&"/>
+<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=figma&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=lua&text=false&animation=spin&fill=black&textfill=bface6&"/>
 
 ##
 **Profile:**
