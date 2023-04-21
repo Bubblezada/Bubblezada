@@ -19,14 +19,14 @@
 
 *OS:*
   
-<a href="#"><img src="https://img.shields.io/badge/ArchLinux - 4.11-100000?style=for-the-badge&logo=Linux&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="#"><img src="https://img.shields.io/badge/ArchLinux - 6.2.11-100000?style=for-the-badge&logo=Linux&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/Windows_10-For editing and playing-100000?style=for-the-badge&logo=Windows&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 
 *Machine Information*
 
-<a href="#"><img src="https://img.shields.io/badge/Laptop-I don't remember the model :/-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Laptop-Latitude 3420-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/RAM-16GB_1x16GB-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
@@ -45,7 +45,7 @@
 
 *Browsers*
 
-<a href="#"><img alt="Firefox Browser" src="https://img.shields.io/badge/Firefox_for ArchLinux-[79.0]-100000?style=for-the-badge&logo=firefox browser&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="#"><img alt="Firefox Browser" src="https://img.shields.io/badge/Firefox_for ArchLinux-[112.0]-100000?style=for-the-badge&logo=firefox browser&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 <a href="#"><img alt="Brave_Browser" src="https://img.shields.io/badge/Brave-1.50.119-100000?style=for-the-badge&logo=Brave&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
