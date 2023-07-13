@@ -26,11 +26,11 @@
 
 *Machine Information*
 
-<a href="#"><img src="https://img.shields.io/badge/Laptop-Latitude 3420-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Laptop-Dell G15-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/RAM-16GB_1x16GB-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-<a href="#"><img src="https://img.shields.io/badge/Process-Intel® Core™ i5 11h-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Process-Intel® Core™ i5 12h-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 
 *Languages I program in*
